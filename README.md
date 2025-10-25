@@ -1,3 +1,5 @@
-# server-performance-stats
-Server performance stats script in bash
-https://github.com/Kishore1284/server-performance-stats/blob/main/server-stats.sh
+# Server Performance Stats
+
+This project analyzes basic server performance metrics.
+
+Project URL: [https://github.com/Kishore1284/server-performance-stats](https://github.com/Kishore1284/server-performance-stats)
